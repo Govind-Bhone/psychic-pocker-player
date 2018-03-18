@@ -91,4 +91,4 @@ Hand: 3D 5S 2H QD TD Deck: 6S KH 9H AD QH Best hand: highest-card
 This program approx takes very less time to execute
 
 ## Expected Output 
-![Result](result.PNG)
+![Result](result.png)
