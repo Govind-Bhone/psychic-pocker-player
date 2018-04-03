@@ -31,6 +31,10 @@ Normally the player cannot see the cards in the deck and so must use probability
 In this problem, we imagine that the poker player is psychic and knows which cards are on top of the deck. 
 Write a program which advises the player which cards to discard so as to maximize the value of the resulting hand.
 
+### Ranking Algorithm
+![Result2](result1.png)
+
+
 Input and Output
 ----------------
 Input will consist of a series of lines, each containing the initial five cards in the hand then the first five cards on top of the deck. Each card is represented as a two-character code. The first character is the face-value (A=Ace, 2-9, T=10, J=Jack, Q=Queen, K=King) and the second character is the suit (C=Clubs, D=Diamonds, H=Hearts, S=Spades). Cards will be separated by single spaces. Each input line will be from a single valid deck, that is there will be no duplicate cards in each hand and deck.
